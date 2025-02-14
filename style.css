@@ -1,0 +1,36 @@
+body{
+    background-color: bisque;
+}
+.navbar{
+    
+    background-color: aqua;
+    display: flex;
+}
+.navbar a{
+    margin: 1em;
+}
+.socials{
+    background-color: azure;
+    display: flex;
+}
+.socials a{
+    margin:1em;
+}
+.intro{
+    display: flex;
+    margin: 0.5rem;
+}
+.intro img{
+    border-radius: 100%;
+}
+.intro p{
+    align-items: center;
+}
+.Proj{
+    background-color: rgb(225, 166, 221);
+}
+a{
+    color: rgb(78, 57, 136);
+    background-color: orange;
+    text-decoration-style:dashed;
+}
